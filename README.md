@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Philippe
+- 👋 Hi, I’m Phil
 - 👀 I’m currently working with several render engine (Maverick / Bella / Lightracer / Maxwell Studio / sycles)
 - 🌱 I’m currently using MOI3D / Plasticity / Lightwave 2024 and Softimage
 - ⚡ Fun fact: all under NDA :)
